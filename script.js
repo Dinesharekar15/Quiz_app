@@ -12,7 +12,7 @@ const question =[
     {
         question:"Q2.What is the purpose of JavaScript in web development?",
         Option1:"To style web pages",
-        Option2:" To create interactive and dynamic content",
+        Option2:" To make database",
         Option3:"To define the layout of a webpage",
         Option4:"To create interactive and dynamic content",
         outof:"1/5",
